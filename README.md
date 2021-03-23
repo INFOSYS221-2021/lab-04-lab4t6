@@ -13,11 +13,7 @@ Update this README to include your team name and team members. Don't forget to r
 4. line 151 - if turn == 'player'
 5. line 150 - end - while gameIsPlaying
 6. line 121 move = chooseRandomMoveFromList(board, [1, 3, 7, 9]) possible moves of computer trying to take corners if they are free.
-7.if letter == 'X':
-  return ['X', 'O']
- else:
-  return ['O', 'X']
-  parameter is either x or o based on players input
+7.
   
 8. def isWinner(bo, le):
   return ((bo[7] == le and bo[8] == le and bo[9] == le) or # across the top
