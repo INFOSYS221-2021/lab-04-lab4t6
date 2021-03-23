@@ -8,7 +8,7 @@ Update this README to include your team name and team members. Don't forget to r
 3.
 4. line 151 - if turn == 'player'
 5. line 150 - end - while gameIsPlaying
-6. line 121
+6. line 121 move = chooseRandomMoveFromList(board, [1, 3, 7, 9]) possible moves of computer trying to take corners if they are free.
 7.
 8.
 9.
