@@ -1,6 +1,10 @@
 # Lab-04
 Team 6 
 
+clen790
+dxu970
+astu864
+
 Update this README to include your team name and team members. Don't forget to record all your answers to lab 04 here.
 
 1. String, Integer, Boolean
