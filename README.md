@@ -20,9 +20,7 @@ Update this README to include your team name and team members. Don't forget to r
   parameter is either x or o based on players input
   
 8. def isWinner(bo, le):
- # Given a board and a player’s letter, this function returns True if that player has won.
- # We use bo instead of board and le instead of letter so we don’t have to type as much.
- return ((bo[7] == le and bo[8] == le and bo[9] == le) or # across the top
+  return ((bo[7] == le and bo[8] == le and bo[9] == le) or # across the top
  (bo[4] == le and bo[5] == le and bo[6] == le) or # across the middle
  (bo[1] == le and bo[2] == le and bo[3] == le) or # across the bottom
  (bo[7] == le and bo[4] == le and bo[1] == le) or # down the left side
