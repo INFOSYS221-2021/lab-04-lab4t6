@@ -19,5 +19,5 @@ Update this README to include your team name and team members. Don't forget to r
   return ['O', 'X']
   parameter is either x or o based on players input
 8.
-9.
+9.dont think it will affect the code
 10. Contains the last block of code to see if the game will restart at the end of a game, if the player wants to play again and the statement is true, the loop will continue. If the player doesn't wanna continue loop will break. 
