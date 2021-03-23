@@ -29,5 +29,7 @@ Update this README to include your team name and team members. Don't forget to r
  (bo[7] == le and bo[5] == le and bo[3] == le) or # diagonal
  (bo[9] == le and bo[5] == le and bo[1] == le)) # diagonal
  
+ the function returns true if player has won 
+ 
 9.dont think it will affect the code
 10. Contains the last block of code to see if the game will restart at the end of a game, if the player wants to play again and the statement is true, the loop will continue. If the player doesn't wanna continue loop will break. 
