@@ -6,9 +6,9 @@ Update this README to include your team name and team members. Don't forget to r
 1. String, Integer, Boolean
 2.
 3.
-4.
-5.
-6.
+4. line 151 - if turn == 'player'
+5. line 150 - end - while gameIsPlaying
+6. line 121
 7.
 8.
 9.
